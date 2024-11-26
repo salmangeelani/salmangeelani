@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @salmangeelani
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on projects that need some insights
+- 💞️ I’m looking to collaborate on projects that need some insights.
+- 💞️ I am on a journey of becoming a qualified data scientist.
 - 📫 You can reach me on LinkedIn(https://www.linkedin.com/in/syed-salman-geelani-214172118/)
 <!---
 salmangeelani/salmangeelani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
